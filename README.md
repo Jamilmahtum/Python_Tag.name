@@ -13,7 +13,7 @@ Tags for open/python
 #big data recipes
 #categorical variable examples
 #data normalization
-#ata science projects in r 
+#data science projects in r 
 #feature extraction 
 #label encoder 
 #machine learning recipes
